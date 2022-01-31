@@ -14,7 +14,7 @@
  install.packages("caTools")
 ```
 
-The mushrooms.csv dataset was downloaded from [kaggle](https://www.kaggle.com/uciml/mushroom-classification/version/1)
+The mushrooms.csv dataset was downloaded from [kaggle.](https://www.kaggle.com/uciml/mushroom-classification/version/1)
 
 ------------------------------------------------------------------------------------------------------------
 
